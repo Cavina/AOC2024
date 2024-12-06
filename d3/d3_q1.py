@@ -37,6 +37,7 @@ print(score)
     and we subtract the two: score-dont_score
 
 '''
+##Q2
 i = 0
 dont_score = 0
 while i < len(input_text):

@@ -1,4 +1,4 @@
-from get_input import fetch_aoc_input
+from d3.setup.get_input import fetch_aoc_input
 
 try:
     input_text = fetch_aoc_input(2)
